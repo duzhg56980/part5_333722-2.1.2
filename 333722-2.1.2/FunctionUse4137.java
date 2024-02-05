@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.ser.std.IterableSerializer;
+public class FunctionUse4137 {
+public void funcUse() {
+IterableSerializer iterableserializer = new IterableSerializer();
+}
+}
